@@ -182,7 +182,8 @@
       "ajv": "^6.14.0",
       "test-exclude": "^7.0.0",
       "brace-expansion": "^2.1.0",
-      "yaml": "^1.10.3"
+      "yaml": "^1.10.3",
+      "postcss": "^8.5.10"
     }
   }
 }
