@@ -27,7 +27,7 @@ const ghostRemotePatterns = [
     : []),
   {
     protocol: 'https',
-    hostname: 'blogapi.evento.so',
+    hostname: 'blog.evento.so',
     pathname: '/content/images/**',
   },
   {
